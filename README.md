@@ -86,17 +86,6 @@ An AI-powered stock analysis project that combines market data, charts and AI-ge
 
 A full-stack event registration system with authentication, event management, QR codes and PDF generation.
 
-### 👤 Face Recognition System
-
-A computer-vision based system using OpenCV for face recognition and user identification.
-
-### 🌾 KrishiMitra
-
-A technology platform developed around agricultural use cases, involving backend APIs, databases and web technologies.
-
-### 🥤 PowerFuel
-
-A customizable protein shake ordering platform with product customization and checkout functionality.
 
 ---
 
