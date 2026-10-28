@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Pandey 👋
 
-### CSE Student • Developer • Builder • Founder @ Credev
+### CSE Student • Developer • Builder
 
 I'm a Computer Science student who enjoys **building real-world products, solving problems, and exploring AI**.
 
@@ -12,27 +12,7 @@ Currently, I'm focused on improving my skills in **Software Development, DSA, AI
 
 ---
 
-## 🚀 What I'm Working On
 
-### 🏢 Credev
-
-I'm building **Credev**, a digital solutions team focused on helping businesses turn their ideas into practical technology solutions.
-
-We work across areas such as:
-
-* 🌐 Web & Software Development
-* 📱 App Development
-* 🤖 AI/ML Solutions
-* 📊 Data Analytics & Dashboards
-* 🔍 SEO & Digital Solutions
-* ⚙️ Custom Business Software
-* 🧹 Data Cleaning & Processing
-
-The goal is simple:
-
-> **Understand the business problem first, then build the technology around it.**
-
----
 
 ## 💻 Tech I'm Working With
 
